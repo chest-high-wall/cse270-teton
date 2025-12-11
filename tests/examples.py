@@ -1,5 +1,6 @@
 import random
-import psycopg2 
+# import psycopg2
+
 
 some_list = ['alpha','beta','gamma','delta']
 
